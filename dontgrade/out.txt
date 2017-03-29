@@ -1,0 +1,3 @@
+Time,Phrase,Site,Count
+03-12-17-01:10:05,Irish,http//www.nd.edu/,4
+03-12-17-01:10:05,Notre,http//www.nd.edu/,10
